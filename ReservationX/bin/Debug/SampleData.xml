@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSeat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seat>
+    <TicketisBooked>true</TicketisBooked>
+    <passangerFName>Rutvik</passangerFName>
+    <passangerLName>Gandhi</passangerLName>
+    <PassangerContactNumber>4372641049</PassangerContactNumber>
+  </Seat>
+</ArrayOfSeat>
