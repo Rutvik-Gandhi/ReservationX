@@ -26,7 +26,7 @@ To run the ReservationX application, follow these steps:
 1. **Clone or Download the Repository**: 
    - Clone the ReservationX repository to your local machine using Git:
      ```
-     git clone https://github.com/vbarot3699/ReservationX.git
+     git clone https://github.com/Rutvik-Gandhi/ReservationX.git
      ```
    - Alternatively, you can download the repository as a ZIP file and extract it to a folder on your computer.
 
