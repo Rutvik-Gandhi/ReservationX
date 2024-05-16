@@ -1,12 +1,3 @@
-﻿// Group Name: ReservationX
-// Team Members:
-// Vaishnavi Barot(8975398)
-// Naiya Patel(8939307)
-// Harsh Patel(8976157)
-// Ravneet Kaur(8876396)
-// Harpreet Kaur(8970729)
-
-
 using Microsoft.VisualBasic;
 using System;
 using System.Collections;
